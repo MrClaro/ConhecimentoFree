@@ -1,97 +1,96 @@
 # ConhecimentoFree
+
 > Grupos do Telegram
 
+## Português:
 
-## Português: 
- 
 ### Cursos em Geral:
 
-**Acervo do Conhecimento:**
-Aqui você vai achar qualquer conteúdo relacionado ao conhecimento
-<https://t.me/acervocon>
+### [**Acervo do Conhecimento:**](https://t.me/acervocon)
 
-**Development**
-Um Acervo de vários outros grupos voltados cada um a uma tecnologia especifica 
-https://t.me/+u9IGipyIB1E3ZGEx
+> - Aqui você vai achar qualquer conteúdo relacionado ao conhecimento
 
-**GDrive Cursos**
-Comunidade voltada ao compartilhamento de cursos em geral
-https://t.me/gdrive2020
+### [**Development**](https://t.me/+u9IGipyIB1E3ZGEx)
 
-**Conteudos no Drive**
-Comunidade voltada ao compartilhamento de cursos em geral
-https://t.me/CONTEUDOSDRIVEFREE
+> - Um Acervo de vários outros grupos voltados cada um a uma tecnologia especifica
 
-**Arvore do Conhecimento - Português e Ingles**
-Comunidade voltada ao compartilhamento de cursos em geral
-https://t.me/arveduconhecimentu
+### [**GDrive Cursos**](https://t.me/gdrive2020)
 
-**Orion Cursos**
-Comunidade voltada ao compartilhamento de cursos em geral
-https://t.me/orioncursos
+> - Comunidade voltada ao compartilhamento de cursos em geral
 
-**Acumuladores Digitais**
-Comunidade voltada ao compartilhamento de cursos em geral
-https://t.me/aculadoresdigitais
+### [**Conteudos no Drive**](https://t.me/CONTEUDOSDRIVEFREE)
 
-**Aletheia Clone**
-Comunidade voltada ao compartilhamento de cursos em geral
-https://t.me/aletheiaBR
+> - Comunidade voltada ao compartilhamento de cursos em geral
 
-**The elite Cursos**
-Comunidade voltada ao compartilhamento de cursos em geral
-https://t.me/ELITE_CURSO
+### [**Arvore do Conhecimento - Português e Ingles**](https://t.me/arveduconhecimentu)
 
-**Polemic Knowledge - Clone - The goat**
-Comunidade voltada ao compartilhamento de cursos em geral
-https://t.me/+-eUQNwLw9G5mNDUx
+> - Comunidade voltada ao compartilhamento de cursos em geral
 
-**MEGA.NZ-LINKS**
-Acervo voltado a cursos alocados no MEGA
-https://t.me/MEGA_NZ
+### [**Orion Cursos**](https://t.me/orioncursos)
 
-**Arsenal de Cursos**
-Canal para Download de Cursos
-https://t.me/cursosdowloard
+> - Comunidade voltada ao compartilhamento de cursos em geral
 
+### [**Acumuladores Digitais**](https://t.me/aculadoresdigitais)
 
+> - Comunidade voltada ao compartilhamento de cursos em geral
 
+### [**Aletheia Clone**](https://t.me/aletheiaBR)
+
+> - Comunidade voltada ao compartilhamento de cursos em geral
+
+### [**The Elite Cursos**](https://t.me/ELITE_CURSO)
+
+> - Comunidade voltada ao compartilhamento de cursos em geral
+
+### [**Polemic Knowledge - Clone - The goat**](https://t.me/+-eUQNwLw9G5mNDUx)
+
+> - Comunidade voltada ao compartilhamento de cursos em geral=
+
+### [**MEGA.NZ-LINKS** ](https://t.me/MEGA_NZ)
+
+> - Acervo voltado a cursos alocados no MEGA
+
+### [**Arsenal de Cursos**](https://t.me/cursosdowloard)
+
+> - Canal para Download de Cursos
+
+<hr>
 
 # Inglês
 
 ## Cursos em Geral:
 
-**Linkedin Learning Courses**
-Baixe ou assista os cursos de aprendizagem do Linkedin
-https://t.me/linkedin_learning
+### [**Linkedin Learning Courses**](https://t.me/linkedin_learning)
 
-**Zero to Mastery**
-Acervo voltado a cursos de tecnologia em geral
-https://t.me/zero_to_mastery
+> - Baixe ou assista os cursos de aprendizagem do Linkedin
 
-**Udemy Courses**
-Acervo voltado a cursos da Udemy
-https://t.me/Udemy_Learning
+### [**Zero to Mastery**](https://t.me/zero_to_mastery)
 
+> - Acervo voltado a cursos de tecnologia em geral
+
+### [**Udemy Courses**](https://t.me/Udemy_Learning)
+
+> - Acervo voltado a cursos da Udemy
 
 ## S.I
-**RedBlueTM Hit**
-Grupo no telegram voltado a Segurança da Informação 
-https://t.me/joinchat/WvQZlNhxGF1mNjRk
 
-**CyberSecurity101**
-Grupo no telegram voltado a Segurança da Informação
-https://t.me/cybersecurity1O1
+### [**RedBlueTM Hit**](https://t.me/joinchat/WvQZlNhxGF1mNjRk)
 
-**Pentesting With KaliLinux**
-https://t.me/PentestingConKaliLinux
+> - Grupo no telegram voltado a Segurança da Informação
 
+### [**CyberSecurity101** ](https://t.me/cybersecurity1O1)
 
+> - Grupo no telegram voltado a Segurança da Informação
+
+### [**Pentesting With KaliLinux**](https://t.me/PentestingConKaliLinux)
+
+> - Grupo no telegram voltado a Segurança da Informação
 
 # Livros
 
-**Livros de TI**
+### [**Livros de TI**](https://t.me/booksti)
 O intuito desse canal é o compartilhamento de livros relacionados a área de TI
-https://t.me/booksti
 
 
+> [!IMPORTANT]
+> Esse repositorio foi criado sem fins lucrativos, ele veio com o proposito de divulgar o conhecimento a todos de uma forma gratuita.
