@@ -1,96 +1,103 @@
 # ConhecimentoFree
 
-> Grupos do Telegram
+# Cursos em Geral
+
+O intuito dessa aba é o compartilhamento de cursos voltados ao TI e em Geral
+
+## Sites
 
 ## Português:
 
-### Cursos em Geral:
+| Nome                                                                                               | Tipo (Curso, Livro, etc) | Certificado | Idioma           | Gratuito | Tecnologia |
+| -------------------------------------------------------------------------------------------------- | ------------------------ | ----------- | ---------------- | -------- | ---------- |
+| [**Loiane Training**](https://loiane.training)                                                     | Site                     | Não         | Português        | Sim      | Várias     |
+| [**Curso Oficial do Android**](https://developer.android.com/?hl=pt-br)                            | Site                     | Não         | Português        | Sim      | Android    |
+| [**Khan Academy - Programação Básica**](https://pt.khanacademy.org/computing/computer-programming) | Site                     | Não         | Português        | Sim      | Várias     |
+| [**Microsoft Learning**](https://learn.microsoft.com/pt-br/training/browse/)                       | Site                     | Não         | PortuguêsInglês  | Sim      | Várias     |
+| [**Cousera**](https://learn.microsoft.com/pt-br/training/browse/)                                  | Site                     | Não         | Português/Inglês | Sim      | Várias     |
+| [**Fundação Bradesco**](https://www.ev.org.br/cursos)                                              | Site                     | Não         | Português        | Sim      | Várias     |
 
-### [**Acervo do Conhecimento:**](https://t.me/acervocon)
+## Inglês:
 
-> - Aqui você vai achar qualquer conteúdo relacionado ao conhecimento
+| Nome                                                       | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
+| ---------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | ---------- |
+| [**Harvar Courses**](https://pll.harvard.edu/catalog/free) | Site                     | Não         | Inglês | Sim      | Várias     |
+| [**Free Code Camp**](https://www.freecodecamp.org)         | Site                     | Não         | Inglês | Sim      | Várias     |
 
-### [**Development**](https://t.me/+u9IGipyIB1E3ZGEx)
+<br>
 
-> - Um Acervo de vários outros grupos voltados cada um a uma tecnologia especifica
+# Repositorios do GitHub
 
-### [**GDrive Cursos**](https://t.me/gdrive2020)
+<p>Aqui você pode encontrar repositorios do github com os mais diversos cursos</p>
 
-> - Comunidade voltada ao compartilhamento de cursos em geral
+## Português:
 
-### [**Conteudos no Drive**](https://t.me/CONTEUDOSDRIVEFREE)
+| Nome                                                                  | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | Tecnologia |
+| --------------------------------------------------------------------- | ------------------------ | ----------- | --------- | -------- | ---------- |
+| [**Cursos Udemy**](https://github.com/ProgramacaoPratica/CursosUdemy) | Repositorio              | Não         | Português | Sim      | Várias     |
 
-> - Comunidade voltada ao compartilhamento de cursos em geral
+## Inglês
 
-### [**Arvore do Conhecimento - Português e Ingles**](https://t.me/arveduconhecimentu)
+### Livros
 
-> - Comunidade voltada ao compartilhamento de cursos em geral
+<p>Aqui você pode encontrar livros especificos para TI em um repositorio do GitHub</p>
 
-### [**Orion Cursos**](https://t.me/orioncursos)
-
-> - Comunidade voltada ao compartilhamento de cursos em geral
-
-### [**Acumuladores Digitais**](https://t.me/aculadoresdigitais)
-
-> - Comunidade voltada ao compartilhamento de cursos em geral
-
-### [**Aletheia Clone**](https://t.me/aletheiaBR)
-
-> - Comunidade voltada ao compartilhamento de cursos em geral
-
-### [**The Elite Cursos**](https://t.me/ELITE_CURSO)
-
-> - Comunidade voltada ao compartilhamento de cursos em geral
-
-### [**Polemic Knowledge - Clone - The goat**](https://t.me/+-eUQNwLw9G5mNDUx)
-
-> - Comunidade voltada ao compartilhamento de cursos em geral=
-
-### [**MEGA.NZ-LINKS** ](https://t.me/MEGA_NZ)
-
-> - Acervo voltado a cursos alocados no MEGA
-
-### [**Arsenal de Cursos**](https://t.me/cursosdowloard)
-
-> - Canal para Download de Cursos
+| Nome                                                                                    | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
+| --------------------------------------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | ---------- |
+| [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books) | Repositorio              | Não         | Inglês | Sim      | Várias     |
 
 <hr>
 
-# Inglês
+# Cursos pelo Telegram
 
-## Cursos em Geral:
+## Cursos em Geral
 
-### [**Linkedin Learning Courses**](https://t.me/linkedin_learning)
+<p>Aqui você pode encontrar grupos no telegram com os mais diversos cursos</p>
 
-> - Baixe ou assista os cursos de aprendizagem do Linkedin
+### Português
 
-### [**Zero to Mastery**](https://t.me/zero_to_mastery)
+| Nome                                                                               | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | Tecnologia |
+| ---------------------------------------------------------------------------------- | ------------------------ | ----------- | --------- | -------- | ---------- |
+| [**Arsenal de Cursos**](https://t.me/cursosdowloard)                               | Curso                    | Não         | Português | Sim      | Várias     |
+| [**MEGA.NZ-LINKS** ](https://t.me/MEGA_NZ)                                         | Curso                    | Não         | Português | Sim      | Várias     |
+| [**Polemic Knowledge - Clone - The goat**](https://t.me/+-eUQNwLw9G5mNDUx)         | Curso                    | Não         | Português | Sim      | Várias     |
+| [**The Elite Cursos**](https://t.me/ELITE_CURSO)                                   | Curso                    | Não         | Português | Sim      | Várias     |
+| [**Aletheia Clone**](https://t.me/aletheiaBR)                                      | Curso                    | Não         | Português | Sim      | Várias     |
+| [**Acumuladores Digitais**](https://t.me/aculadoresdigitais)                       | Curso                    | Não         | Português | Sim      | Várias     |
+| [**Orion Cursos**](https://t.me/orioncursos)                                       | Curso                    | Não         | Português | Sim      | Várias     |
+| [**Arvore do Conhecimento - Português e Ingles**](https://t.me/arveduconhecimentu) | Curso                    | Não         | Português | Sim      | Várias     |
+| [**Conteudos no Drive**](https://t.me/CONTEUDOSDRIVEFREE)                          | Curso                    | Não         | Português | Sim      | Várias     |
+| [**GDrive Cursos**](https://t.me/gdrive2020)                                       | Curso                    | Não         | Português | Sim      | Várias     |
+| [**Development**](https://t.me/+u9IGipyIB1E3ZGEx)                                  | Curso                    | Não         | Português | Sim      | Várias     |
+| [**Acervo do Conhecimento:**](https://t.me/acervocon)                              | Curso                    | Não         | Português | Sim      | Várias     |
 
-> - Acervo voltado a cursos de tecnologia em geral
+### Inglês
 
-### [**Udemy Courses**](https://t.me/Udemy_Learning)
-
-> - Acervo voltado a cursos da Udemy
+| Nome                                                            | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
+| --------------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | ---------- |
+| [**Zero to Mastery**](https://t.me/zero_to_mastery)             | Curso                    | Não         | Inglês | Sim      | Várias     |
+| [**Udemy Courses**](https://t.me/Udemy_Learning)                | Curso                    | Não         | Inglês | Sim      | Várias     |
+| [**Linkedin Learning Courses**](https://t.me/linkedin_learning) | Curso                    | Não         | Inglês | Sim      | Várias     |
 
 ## S.I
 
-### [**RedBlueTM Hit**](https://t.me/joinchat/WvQZlNhxGF1mNjRk)
+<p>Aqui você pode encontrar cursos especificos para SI</p>
 
-> - Grupo no telegram voltado a Segurança da Informação
+| Nome                                                                 | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
+| -------------------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | ---------- |
+| [**Pentesting With KaliLinux**](https://t.me/PentestingConKaliLinux) | Curso                    | Não         | Inglês | Sim      | Várias     |
+| [**CyberSecurity101** ](https://t.me/cybersecurity1O1)               | Curso                    | Não         | Inglês | Sim      | Várias     |
+| [**RedBlueTM Hit**](https://t.me/joinchat/WvQZlNhxGF1mNjRk)          | Curso                    | Não         | Inglês | Sim      | Várias     |
 
-### [**CyberSecurity101** ](https://t.me/cybersecurity1O1)
+## Livros
 
-> - Grupo no telegram voltado a Segurança da Informação
+<p>Aqui você pode encontrar livros especificos para TI</p>
 
-### [**Pentesting With KaliLinux**](https://t.me/PentestingConKaliLinux)
+| Nome                                 | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
+| ------------------------------------ | ------------------------ | ----------- | ------ | -------- | ---------- |
+| [**Books IT**](https://t.me/booksti) | Livro                    | Não         | Inglês | Sim      | Várias     |
 
-> - Grupo no telegram voltado a Segurança da Informação
+<hr>
 
-# Livros
-
-### [**Livros de TI**](https://t.me/booksti)
-O intuito desse canal é o compartilhamento de livros relacionados a área de TI
-
-# AVISOS
 > [!IMPORTANT]
 > Esse repositorio foi criado sem fins lucrativos, ele veio com o proposito de divulgar o conhecimento a todos de uma forma gratuita.
