@@ -1,39 +1,57 @@
-# ConhecimentoFree
+
+# 👋 Bem-vindo ao ConhecimentoFree! 🌟
+
+> **Seja bem-vindo!** Aqui você encontra **recursos, cursos e ferramentas** para expandir seus conhecimentos na área de tecnologia e programação, bem como em outras áreas.
+
+🎉 Aproveite e explore nossos recursos gratuitos, aprenda com desafios e junte-se à nossa comunidade em crescimento!
+
+---
+
+
 
 ## Sumário
 - [Desafios Técnicos](#desafios-técnicos)
   - [Repositórios](#repositórios)
-    - [Inglês 📘](#inglês-📘)
+    - [Inglês](#inglês)
 - [APIs Públicas Gratuitas](#apis-públicas-gratuitas)
   - [Repositórios](#repositórios-1)
-    - [Inglês 📘](#inglês-📘-1)
+    - [Inglês](#inglês-1)
 - [Boas Práticas](#boas-práticas)
   - [Repositórios](#repositórios-2)
-    - [Português 🇧🇷](#português-🇧🇷)
-    - [Inglês 📘](#inglês-📘-2)
-- [Cursos em Geral 🎓](#cursos-em-geral-🎓)
+    - [Português](#português)
+    - [Inglês](#inglês-2)
+- [Cursos em Geral](#cursos-em-geral)
   - [Sites](#sites)
-    - [Português 🇧🇷](#português-🇧🇷-1)
-    - [Inglês 📘](#inglês-📘-3)
+    - [Português](#português-1)
+    - [Inglês](#inglês-3)
   - [Repositórios do GitHub](#repositórios-do-github)
-    - [Português 🇧🇷](#português-🇧🇷-2)
-    - [Inglês 📘](#inglês-📘-4)
-- [Cursos pelo Telegram 📱](#cursos-pelo-telegram-📱)
+    - [Português](#português-2)
+    - [Inglês](#inglês-4)
+- [Cursos pelo Telegram](#cursos-pelo-telegram)
   - [Cursos em Geral](#cursos-em-geral-1)
-    - [Português 🇧🇷](#português-🇧🇷-3)
-    - [Inglês 📘](#inglês-📘-5)
+    - [Português](#português-3)
+    - [Inglês](#inglês-5)
   - [S.I](#si)
-  - [Livros 📚](#livros-📚)
+  - [Livros](#livros)
 - [THE GOAT](#the-goat)
   - [Repositórios](#repositórios-3)
+  - [Terabox](#terabox)
 
 ---
+
+# Meu canal no telegram
+| Nome                                                                   |
+| -------------------------------------------------------------------------------------------------- |
+| [**Conhecimento Free**](https://t.me/ConhecimentoFreeByRusso)         |
+
+
+
 
 # Desafios Técnicos
 
 ## Repositórios
 
-### Inglês 📘
+### Inglês
 
 | Nome                                                                                               | Tipo (Curso, Livro, etc) | Idioma | Gratuito |
 | -------------------------------------------------------------------------------------------------- | ------------------------ | ------ | -------- |
@@ -46,7 +64,7 @@
 
 ## Repositórios
 
-### Inglês 📘
+### Inglês
 
 | Nome                                                                                               | Tipo (Curso, Livro, etc) | Idioma | Gratuito |
 | -------------------------------------------------------------------------------------------------- | ------------------------ | ------ | -------- |
@@ -58,7 +76,7 @@
 
 ## Repositórios
 
-### Português 🇧🇷
+### Português
 
 | Nome                                                                                               | Tipo (Curso, Livro, etc) | Idioma    | Gratuito |
 | -------------------------------------------------------------------------------------------------- | ------------------------ | --------- | -------- |
@@ -66,7 +84,7 @@
 | [**clean-code-javascript**](https://github.com/felipe-augusto/clean-code-javascript)               | Repositório              | Português | ✔️ Sim   |
 | [**Readme Template**](https://github.com/iuricode/readme-template)                                 | Repositório              | Português | ✔️ Sim   |
 
-### Inglês 📘
+### Inglês
 
 | Nome                                                                                               | Tipo (Curso, Livro, etc) | Idioma | Gratuito |
 | -------------------------------------------------------------------------------------------------- | ------------------------ | ------ | -------- |
@@ -75,116 +93,144 @@
 
 ---
 
-# Cursos em Geral 🎓
+# Cursos em Geral
 
 <p>O intuito dessa aba é o compartilhamento de cursos voltados ao TI e em Geral</p>
 
 ## Sites
 
-### Português 🇧🇷
+### Português
 
-| Nome                                                                                               | Tipo (Curso, Livro, etc) | Certificado | Idioma           | Gratuito | Tecnologia |
-| -------------------------------------------------------------------------------------------------- | ------------------------ | ----------- | ---------------- | -------- | ---------- |
-| [**Loiane Training**](https://loiane.training)                                                     | Site                     | ✔️ Sim      | Português        | ✔️ Sim   | Várias     |
-| [**Curso Oficial do Android**](https://developer.android.com/?hl=pt-br)                            | Site                     | ✔️ Sim      | Português        | ✔️ Sim   | Android    |
-| [**Khan Academy - Programação Básica**](https://pt.khanacademy.org/computing/computer-programming) | Site                     | ✔️ Sim      | Português        | ✔️ Sim   | Várias     |
-| [**Microsoft Learning**](https://learn.microsoft.com/pt-br/training/browse/)                       | Site                     | ✔️ Sim      | Português/Inglês | ✔️ Sim   | Várias     |
-| [**Cousera**](https://learn.microsoft.com/pt-br/training/browse/)                                  | Site                     | ✔️ Sim      | Português/Inglês | ✔️ Sim   | Várias     |
-| [**Fundação Bradesco**](https://www.ev.org.br/cursos)                                              | Site                     | ✔️ Sim      | Português        | ✔️ Sim   | Várias     |
+| Nome                                                                                               | Tipo (Curso, Livro, etc) | Certificado | Idioma           | Gratuito |
+| -------------------------------------------------------------------------------------------------- | ------------------------ | ----------- | ---------------- | -------- | 
+| [**Loiane Training**](https://loiane.training)                                                     | Site                     | ✔️ Sim      | Português        | ✔️ Sim   |
+| [**Curso Oficial do Android**](https://developer.android.com/?hl=pt-br)                            | Site                     | ✔️ Sim      | Português        | ✔️ Sim   |
+| [**Khan Academy - Programação Básica**](https://pt.khanacademy.org/computing/computer-programming) | Site                     | ✔️ Sim      | Português        | ✔️ Sim   |
+| [**Microsoft Learning**](https://learn.microsoft.com/pt-br/training/browse/)                       | Site                     | ✔️ Sim      | Português/Inglês | ✔️ Sim   | 
+| [**Cousera**](https://learn.microsoft.com/pt-br/training/browse/)                                  | Site                     | ✔️ Sim      | Português/Inglês | ✔️ Sim   | 
+| [**Fundação Bradesco**](https://www.ev.org.br/cursos)                                              | Site                     | ✔️ Sim      | Português        | ✔️ Sim   | 
+| [**Univesp - Programa oportunidade Já**](https://apps.univesp.br/oportunidade-ja/)                                              | Site                     | ✔️ Sim      | Português        | ✔️ Sim   | 
 
-### Inglês 📘
 
-| Nome                                                       | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
-| ---------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | ---------- |
-| [**Harvard Courses**](https://pll.harvard.edu/catalog/free)    | Site                     | ✔️ Sim      | Inglês | ✔️ Sim   | Várias     |
-| [**Free Code Camp**](https://www.freecodecamp.org)         | Site                     | ✔️ Sim      | Inglês | ✔️ Sim   | Várias     |
+
+
+### Inglês
+
+| Nome                                                       | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito |
+| ---------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- |
+| [**Harvard Courses**](https://pll.harvard.edu/catalog/free)    | Site                     | ✔️ Sim      | Inglês | ✔️ Sim   | 
+| [**Free Code Camp**](https://www.freecodecamp.org)         | Site                     | ✔️ Sim      | Inglês | ✔️ Sim   | 
 
 ## Repositórios do GitHub
 
 <p>Aqui você pode encontrar repositórios do GitHub com os mais diversos cursos</p>
 
-### Português 🇧🇷
+### Português
 
-| Nome                                                                  | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | Tecnologia |
-| --------------------------------------------------------------------- | ------------------------ | ----------- | --------- | -------- | ---------- |
-| [**Cursos Udemy**](https://github.com/ProgramacaoPratica/CursosUdemy) | Repositório              | ❌ Não       | Português | ✔️ Sim   | Várias     |
+| Nome                                                                  | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | 
+| --------------------------------------------------------------------- | ------------------------ | ----------- | --------- | -------- |
+| [**Cursos Udemy**](https://github.com/ProgramacaoPratica/CursosUdemy) | Repositório              | ❌ Não       | Português | ✔️ Sim   |
 
-### Inglês 📘
+### Inglês
 
-#### Livros 📚
+#### Livros
 
 <p>Aqui você pode encontrar livros específicos para TI em um repositório do GitHub</p>
 
-| Nome                                                                                    | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
-| --------------------------------------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | ---------- |
-| [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books) | Repositório              | ❌ Não       | Inglês | ✔️ Sim   | Várias     |
+| Nome                                                                                    | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | 
+| --------------------------------------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | 
+| [**Free Programming Books**](https://github.com/EbookFoundation/free-programming-books) | Repositório              | ❌ Não       | Inglês | ✔️ Sim   | 
 
 ---
 
-# Cursos pelo Telegram 📱
+# Cursos pelo Telegram
 
 ## Cursos em Geral
 
 <p>Aqui você pode encontrar grupos no Telegram com os mais diversos cursos</p>
 
-### Português 🇧🇷
+### Português
 
-| Nome                                                                               | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | Tecnologia |
-| ---------------------------------------------------------------------------------- | ------------------------ | ----------- | --------- | -------- | ---------- |
-| [**Arsenal de Cursos**](https://t.me/cursosdowloard)                               | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**MEGA.NZ-LINKS**](https://t.me/MEGA_NZ)                                         | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**Polemic Knowledge - Clone - The goat**](https://t.me/+-eUQNwLw9G5mNDUx)         | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**The Elite Cursos**](https://t.me/ELITE_CURSO)                                   | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**Aletheia Clone**](https://t.me/aletheiaBR)                                      | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**Acumuladores Digitais**](https://t.me/aculadoresdigitais)                       | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**Orion Cursos**](https://t.me/orioncursos)                                       | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**Arvore do Conhecimento - Português e Ingles**](https://t.me/arveduconhecimentu) | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**Conteudos no Drive**](https://t.me/CONTEUDOSDRIVEFREE)                          | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**GDrive Cursos**](https://t.me/gdrive2020)                                       | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**Development**](https://t.me/+u9IGipyIB1E3ZGEx)                                  | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
-| [**Acervo do Conhecimento**](https://t.me/acervocon)                              | Curso                    | ❌ Não       | Português | ✔️ Sim   | Várias     |
+| Nome                                                                               | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | 
+| ---------------------------------------------------------------------------------- | ------------------------ | ----------- | --------- | -------- | 
+| [**Arsenal de Cursos**](https://t.me/cursosdowloard)                               | Grupo                    | ❌ Não       | Português | ✔️ Sim   | 
+| [**MEGA.NZ-LINKS**](https://t.me/MEGA_NZ)                                         | Grupo                    | ❌ Não       | Português | ✔️ Sim   | 
+| [**Polemic Knowledge - Clone - The goat**](https://t.me/+-eUQNwLw9G5mNDUx)         | Grupo                    | ❌ Não       | Português | ✔️ Sim   | 
+| [**The Elite Cursos**](https://t.me/ELITE_CURSO)                                   | Grupo                    | ❌ Não       | Português | ✔️ Sim   |
+| [**Aletheia Clone**](https://t.me/aletheiaBR)                                      | Grupo                    | ❌ Não       | Português | ✔️ Sim   |
+| [**Acumuladores Digitais**](https://t.me/aculadoresdigitais)                       | Grupo                    | ❌ Não       | Português | ✔️ Sim   | 
+| [**Orion Cursos**](https://t.me/orioncursos)                                       | Grupo                    | ❌ Não       | Português | ✔️ Sim   | 
+| [**Arvore do Conhecimento - Português e Ingles**](https://t.me/arveduconhecimentu) | Grupo                    | ❌ Não       | Português | ✔️ Sim   | 
+| [**Conteudos no Drive**](https://t.me/CONTEUDOSDRIVEFREE)                          | Grupo                    | ❌ Não       | Português | ✔️ Sim   | 
+| [**GDrive Cursos**](https://t.me/gdrive2020)                                       | Grupo                    | ❌ Não       | Português | ✔️ Sim   | 
+| [**Development**](https://t.me/+u9IGipyIB1E3ZGEx)                                  | Grupo                    | ❌ Não       | Português | ✔️ Sim   |
+| [**Acervo do Conhecimento**](https://t.me/acervocon)                              | Grupo                    | ❌ Não       | Português | ✔️ Sim   |
+| [**Extreme Cursos**](https://t.me/Extreme_CursosGratis)         | Grupo                    | ❌ Não       | Português | ✔️ Sim   | 
+| [**Estagiario Senior-Camila Croz-2024**](https://t.me/+padUKXvS-ow0ODg0)         | Curso                    | ❌ Não       | Português | ✔️ Sim   |
 
-### Inglês 📘
 
-| Nome                                                            | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
-| --------------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | ---------- |
-| [**Zero to Mastery**](https://t.me/zero_to_mastery)             | Curso                    | ❌ Não       | Inglês | ✔️ Sim   | Várias     |
-| [**Udemy Courses**](https://t.me/Udemy_Learning)                | Curso                    | ❌ Não       | Inglês | ✔️ Sim   | Várias     |
-| [**Linkedin Learning Courses**](https://t.me/linkedin_learning) | Curso                    | ❌ Não       | Inglês | ✔️ Sim   | Várias     |
+## Livros
+
+<p>Aqui você pode encontrar livro de todos os generos</p>
+
+| Nome                      | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | 
+| ------------------------- | ------------------------ | ----------- | ------ | -------- |
+| [**Livros Grátis 📚 Biblioteca**](https://t.me/Brasil_Livros_Canal) | Livro                    | ❌ Não       | Português | ✔️ Sim   |
+| [**Biblioteca Grátis 📚**](https://t.me/Biblioteca_Gratis) | Livro                    | ❌ Não       | Português | ✔️ Sim   | 
+
+
+### Inglês
+
+| Nome                                                            | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito |
+| --------------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- |
+| [**Zero to Mastery**](https://t.me/zero_to_mastery)             | Grupo                    | ❌ Não       | Inglês | ✔️ Sim   |
+| [**Udemy Courses**](https://t.me/Udemy_Learning)                | Grupo                    | ❌ Não       | Inglês | ✔️ Sim   | 
+| [**Linkedin Learning Courses**](https://t.me/linkedin_learning) | Grupo                    | ❌ Não       | Inglês | ✔️ Sim   |
 
 ## S.I
 
 <p>Aqui você pode encontrar cursos específicos para SI</p>
 
-### Inglês 📘
+### Inglês
 
-| Nome                                                                 | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
-| -------------------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | ---------- |
-| [**Pentesting With KaliLinux**](https://t.me/PentestingConKaliLinux) | Curso                    | ❌ Não       | Inglês | ✔️ Sim   | Várias     |
-| [**CyberSecurity101**](https://t.me/cybersecurity1O1)               | Curso                    | ❌ Não       | Inglês | ✔️ Sim   | Várias     |
-| [**RedBlueTM Hit**](https://t.me/joinchat/WvQZlNhxGF1mNjRk)          | Curso                    | ❌ Não       | Inglês | ✔️ Sim   | Várias     |
+| Nome                                                                 | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito |
+| -------------------------------------------------------------------- | ------------------------ | ----------- | ------ | -------- | 
+| [**Pentesting With KaliLinux**](https://t.me/PentestingConKaliLinux) | Grupo                    | ❌ Não       | Inglês | ✔️ Sim   | 
+| [**CyberSecurity101**](https://t.me/cybersecurity1O1)               | Grupo                    | ❌ Não       | Inglês | ✔️ Sim   | 
+| [**RedBlueTM Hit**](https://t.me/joinchat/WvQZlNhxGF1mNjRk)          | Grupo                    | ❌ Não       | Inglês | ✔️ Sim   |
 
-## Livros 📚
+## Livros
 
 <p>Aqui você pode encontrar livros específicos para TI</p>
 
-| Nome                      | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito | Tecnologia |
-| ------------------------- | ------------------------ | ----------- | ------ | -------- | ---------- |
-| [**Books IT**](https://t.me/booksti) | Livro                    | ❌ Não       | Inglês | ✔️ Sim   | Várias     |
+| Nome                      | Tipo (Curso, Livro, etc) | Certificado | Idioma | Gratuito |
+| ------------------------- | ------------------------ | ----------- | ------ | -------- | 
+| [**Books IT**](https://t.me/booksti) | Livro                    | ❌ Não       | Inglês | ✔️ Sim   | 
 
 ---
 
 # THE GOAT
 
-## Repositórios
 
-### Português 🇧🇷
 
-| Nome                                                                                               | Tipo (Curso, Livro, etc) | Idioma    | Gratuito |
-| -------------------------------------------------------------------------------------------------- | ------------------------ | --------- | -------- |
-| [**Guia Extenso de Programação**](https://github.com/arthurspk/guiadevbrasil)                      | Repositório              | Português | ✔️ Sim   |
+## Português
+### Repositórios
+
+| Nome                                                                  | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | 
+| -------------------------------------------------------------------------------------------------- | ------------------------ | --------- | -------- | -------- |
+| [**Guia Extenso de Programação**](https://github.com/arthurspk/guiadevbrasil)                      | Repositório              | ❌ Não       |  Português | ✔️ Sim   |
+
+
+### Terabox
+| Nome                                                                  | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | 
+| -------------------------------------------------------------------------------------------------- | ------------------------ | --------- | -------- | -------- |
+| [**Curso de inglês Mario vergara**](https://terabox.com/s/142vEV8VWiKFoIBqTwNoq9g)                  | Grupo              | ❌ Não       | Português | ✔️ Sim   |
+
+
 
 ---
+
+
 
 <br>
 <br>
@@ -205,3 +251,10 @@ Vamos juntos expandir este repositório e ajudar mais pessoas a acessarem conte�
 
 > [!IMPORTANT]
 > **Atenção:** Este repositório foi criado sem fins lucrativos, com o propósito de divulgar conhecimento de forma gratuita para todos.
+
+
+
+---
+
+
+
