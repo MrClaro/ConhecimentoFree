@@ -239,7 +239,7 @@ Este repositório é um esforço colaborativo para reunir e compartilhar recurso
 | Nome                                                                  | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | 
 | -------------------------------------------------------------------------------------------------- | ------------------------ | --------- | -------- | -------- |
 | [**Curo de DSA - Augusto Galego**](https://t.me/+4d2OxpSv-nk5MjIx)                      | Grupo              | ❌ Não       |  Português | ✔️ Sim   |
-
+| [**Java10x- Fiasco**](https://t.me/+xExrmZrLt8MwODI5)                      | Grupo              | ❌ Não       |  Português | ✔️ Sim   |
 
 ### Repositórios
 
