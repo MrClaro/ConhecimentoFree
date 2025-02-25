@@ -53,6 +53,7 @@ Este repositório é um esforço colaborativo para reunir e compartilhar recurso
   - [S.I](#si)
   - [Livros](#livros)
 - [THE GOAT](#the-goat)
+  - [Telegram](#cursos-pelo-telegram-2)
   - [Repositórios](#repositórios-3)
   - [Terabox](#terabox)
 
@@ -233,6 +234,13 @@ Este repositório é um esforço colaborativo para reunir e compartilhar recurso
 
 
 ## Português
+
+### Telegram
+| Nome                                                                  | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | 
+| -------------------------------------------------------------------------------------------------- | ------------------------ | --------- | -------- | -------- |
+| [**Curo de DSA - Augusto Galego**](https://t.me/+4d2OxpSv-nk5MjIx)                      | Grupo              | ❌ Não       |  Português | ✔️ Sim   |
+
+
 ### Repositórios
 
 | Nome                                                                  | Tipo (Curso, Livro, etc) | Certificado | Idioma    | Gratuito | 
