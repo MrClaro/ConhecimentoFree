@@ -165,11 +165,20 @@ Veja como ajudar:
 
 ## THE GOAT
 
+
+
+### Sites (Português)
+| Nome | Tipo | Certificado | Idioma | Gratuito | 
+|------|------|-------------|--------|----------|
+| [Drive de Pobre - Site com diversos cursos(incluindo os da alura)](http://drivedepobre.com/) | Site | ❌ Não | Português | ✔️ |
+
 ### Telegram (Português)
 | Nome | Tipo | Certificado | Idioma | Gratuito | 
 |------|------|-------------|--------|----------|
 | [Curo de DSA - Augusto Galego](https://t.me/+4d2OxpSv-nk5MjIx) | Grupo | ❌ Não | Português | ✔️ |
 | [Java10x- Fiasco](https://t.me/+xExrmZrLt8MwODI5) | Grupo | ❌ Não | Português | ✔️ |
+| [Rocketseat](https://t.me/+0NOBA5kmxBQzM2Rh) | Grupo | ❌ Não | Português | ✔️ |
+
 
 ### Repositórios (Português)
 | Nome | Tipo | Certificado | Idioma | Gratuito | 
@@ -179,7 +188,7 @@ Veja como ajudar:
 ### Terabox
 | Nome | Tipo | Certificado | Idioma | Gratuito | 
 |------|------|-------------|--------|----------|
-| [Curso de inglês Mario Vergara](https://terabox.com/s/142vEV8VWiKFoIBqTwNoq9g) | Grupo | ❌ Não | Português | ✔️ |
+| [Curso de inglês Mario Vergara](https://terabox.com/s/142vEV8VWiKFoIBqTwNoq9g) | Drive | ❌ Não | Português | ✔️ |
 
 ---
 
