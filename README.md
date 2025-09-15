@@ -179,7 +179,7 @@ Veja como ajudar:
 | [Java10x- Fiasco](https://t.me/+xExrmZrLt8MwODI5) | Grupo | ❌ Não | Português | ✔️ |
 | [Rocketseat - Créditos:DevWorld](https://t.me/+0NOBA5kmxBQzM2Rh) | Grupo | ❌ Não | Português | ✔️ |
 | [Formações Rocketseat - Créditos:DevWorld](https://t.me/+9gS82JZp28VjYjMx) | Grupo | ❌ Não | Português | ✔️ |
-| [Curso.Dev - Felipe Deschamps](https://t.me/+XVsabza3e6NkNjM0) | Grupo | ❌ Não | Português | ✔️ |
+| [Curso.Dev(2025) - Felipe Deschamps](https://t.me/+XVsabza3e6NkNjM0) | Grupo | ❌ Não | Português | ✔️ |
 
 
 
@@ -192,6 +192,10 @@ Veja como ajudar:
 | Nome | Tipo | Certificado | Idioma | Gratuito | 
 |------|------|-------------|--------|----------|
 | [Curso de inglês Mario Vergara](https://terabox.com/s/142vEV8VWiKFoIBqTwNoq9g) | Drive | ❌ Não | Português | ✔️ |
+| [Todos os Cursos do DevDojo](https://1024terabox.com/s/19DpdIFL-G-O9PbelKEq7cA) | Drive | ❌ Não | Português | ✔️ |
+| [Rocketseat Cursos](https://www.1024tera.com/portuguese/sharing/link?surl=qUExD7hPhWzFqT-I6_d9og&path=%2FRSCursos2025) | Drive | ❌ Não | Português | ✔️ |
+
+
 
 ---
 
