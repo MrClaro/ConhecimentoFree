@@ -178,6 +178,9 @@ Veja como ajudar:
 | [Curo de DSA - Augusto Galego](https://t.me/+4d2OxpSv-nk5MjIx) | Grupo | ❌ Não | Português | ✔️ |
 | [Java10x- Fiasco](https://t.me/+xExrmZrLt8MwODI5) | Grupo | ❌ Não | Português | ✔️ |
 | [Rocketseat](https://t.me/+0NOBA5kmxBQzM2Rh) | Grupo | ❌ Não | Português | ✔️ |
+| [Formações Rocketseat](https://t.me/+9gS82JZp28VjYjMx) | Grupo | ❌ Não | Português | ✔️ |
+| [Curso.Dev - Felipe Deschamps](https://t.me/+XVsabza3e6NkNjM0) | Grupo | ❌ Não | Português | ✔️ |
+
 
 
 ### Repositórios (Português)
