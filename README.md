@@ -193,7 +193,7 @@ Veja como ajudar:
 |------|------|-------------|--------|----------|
 | [Curso de inglês Mario Vergara](https://terabox.com/s/142vEV8VWiKFoIBqTwNoq9g) | Drive | ❌ Não | Português | ✔️ |
 | [Todos os Cursos do DevDojo](https://1024terabox.com/s/19DpdIFL-G-O9PbelKEq7cA) | Drive | ❌ Não | Português | ✔️ |
-| [Rocketseat Cursos](https://www.1024tera.com/portuguese/sharing/link?surl=qUExD7hPhWzFqT-I6_d9og&path=%2FRSCursos2025) | Drive | ❌ Não | Português | ✔️ |
+| [Rocketseat Cursos - Créditos:Membro Anônimo do DevWorld](https://www.1024tera.com/portuguese/sharing/link?surl=qUExD7hPhWzFqT-I6_d9og&path=%2FRSCursos2025) | Drive | ❌ Não | Português | ✔️ |
 
 ### Google Drive
 | Nome | Tipo | Certificado | Idioma | Gratuito | 
