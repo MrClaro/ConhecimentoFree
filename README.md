@@ -179,7 +179,7 @@ Veja como ajudar:
 | [Java10x- Fiasco](https://t.me/+xExrmZrLt8MwODI5) | Grupo | ❌ Não | Português | ✔️ |
 | [Rocketseat - Créditos:DevWorld](https://t.me/+0NOBA5kmxBQzM2Rh) | Grupo | ❌ Não | Português | ✔️ |
 | [Formações Rocketseat - Créditos:DevWorld](https://t.me/+9gS82JZp28VjYjMx) | Grupo | ❌ Não | Português | ✔️ |
-| [Curso.Dev(2025) - Felipe Deschamps](https://t.me/+XVsabza3e6NkNjM0) | Grupo | ❌ Não | Português | ✔️ |
+| [Curso.Dev(2025) - Felipe Deschamps](https://t.me/+zYLY-PIq8yY4ZTBk) | Grupo | ❌ Não | Português | ✔️ |
 
 
 
