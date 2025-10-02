@@ -199,6 +199,8 @@ Veja como ajudar:
 | Nome | Tipo | Certificado | Idioma | Gratuito | 
 |------|------|-------------|--------|----------|
 | [Rocketseat Cursos](https://drive.google.com/drive/folders/1WdTLpV8GM6ltdS0KgtbrdBGRyhilEcSu?usp=sharing) | Drive | ❌ Não | Português | ✔️ |
+| [Meu drive de Cursos(Angular Na Prática - Rocketseat, SaaS para médicos, etc)](https://drive.google.com/drive/folders/15PipGhr1PNahS5LXw3cXzD3_uZZN3JlY?usp=sharing) | Drive | ❌ Não | Português | ✔️ |
+
 
 
 ---
